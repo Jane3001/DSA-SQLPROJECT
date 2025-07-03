@@ -64,12 +64,32 @@ The dataset used is KMS SQL Case Study.csv. It was provided by our trainer in Di
  - If  the  delivery  truck  is  the  most  economical  but  the  slowest  shipping  method  and Express  Air  is  the  fastest  but  the  most  expensive  one,  do  you  think  the  company appropriately  spent  shipping  costs  based  on  the  Order  Priority?  
 ![SQL Question 11](https://github.com/user-attachments/assets/cc7dfe77-8dc0-4d20-8291-892a1903dd9b)
 
+The company should optimize shipping strategy, align shipping methods with order priority. They should use Express Air strictly for urgent (High/Critical) orders to reduce unnecessary shipping costs.
+
+
 ### Data Analysis 
 ![SQL Query 1](https://github.com/user-attachments/assets/6453469c-815c-45e0-9ff0-530968c53ea0)
 
 ![SQL Query 2](https://github.com/user-attachments/assets/7610aa39-3fad-4e14-904d-ba62b6b8c293)
 
 ![SQL Query 3](https://github.com/user-attachments/assets/93a48897-4789-4f69-989c-9923661ec2fb)
+
+### Findings
+The analysis of Kultra Mega Stores’ order data (2009–2012) led to the following business insights:
+- Technology has the highest sales with the total sale of 5,984,248
+- The top 3 regions by total sales were: West, Ontanio and Prarie
+- West region contributed significantly to the revenue 
+- The bottom 3 regions showed low engagement and potential for targeted marketing.
+- The most valuable customers purchased across multiple categories, primarily Technology,  Office supplies and Furniture.
+- Customers who returned items mostly belonged to the Crporate segments, indicating potential dissatisfaction or mismatch in expectations.
+
+### Recommendations
+- Focus on underperforming regions: Invest in targeted marketing and sales efforts in the East, Northwest, and Northeast regions to improve sales coverage.
+- Boost revenue from bottom customers by Introducing loyalty programs and bundled offers. Also provide personalized promotions based on past purchase behavior.
+- Strengthen relationships with the top 10 customers through exclusive deals or early access to new products.
+- Expand High-Performing Categories: Promote technology and explore opportunities to cross-sell related items like furniture or office supplies.
+- Encourage referrals or upselling based on their buying patterns.
+
 
 
 
